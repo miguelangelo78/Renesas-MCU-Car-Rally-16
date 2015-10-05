@@ -1,0 +1,17 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"kit12_rx62t" 
+[GENERAL_DATA]
+"BuildMultipleSettings" "sioservo1_62t|Debug|kit12_rx62t|Debug|sioservo2_62t|Debug|kit12test_rx62t|Debug||" 
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+[WORKSPACE_FILE_STATES]
+[LOADED_PROJECTS]
+"kit12_rx62t" 
+"kit12test_rx62t" 
+"sioservo1_62t" 
+"sioservo2_62t" 
+[END]

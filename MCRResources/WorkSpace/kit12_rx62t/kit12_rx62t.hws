@@ -1,0 +1,48 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"11.0" 
+[WORKSPACE_DETAILS]
+"kit12_rx62t" "C:\WorkSpace\kit12_rx62t" "C:\WorkSpace\kit12_rx62t\kit12_rx62t.hws" "RX" "Renesas RX Standard" 
+[SHARED_WORKSPACE_CONTROL_STATUS]
+"" "" "" 
+"" "" "" 
+[PROJECTS]
+"kit12_rx62t" "C:\WorkSpace\kit12_rx62t\kit12_rx62t" "C:\WorkSpace\kit12_rx62t\kit12_rx62t\kit12_rx62t.hwp" 4 
+"kit12test_rx62t" "C:\WorkSpace\kit12_rx62t\kit12test_rx62t" "C:\WorkSpace\kit12_rx62t\kit12test_rx62t\kit12test_rx62t.hwp" 0 
+"sioservo1_62t" "C:\WorkSpace\kit12_rx62t\sioservo1_62t" "C:\WorkSpace\kit12_rx62t\sioservo1_62t\sioservo1_62t.hwp" 0 
+"sioservo2_62t" "C:\WorkSpace\kit12_rx62t\sioservo2_62t" "C:\WorkSpace\kit12_rx62t\sioservo2_62t\sioservo2_62t.hwp" 0 
+[INFORMATION]
+"ワークスペース情報がありません" 
+[SCRAP]
+[PROJECT_DEPENDENCY]
+[WORKSPACE_PROPERTIES]
+[HELP_FILES]
+"c:\program files\renesas\hew\tools\renesas\rx\1_0_0\hew\stdlib.chm" "C/C++ Standard Library Help" 0 
+"c:\program files\renesas\hew\tools\renesas\rx\1_0_2\hew\stdlib.chm" "C/C++ Standard Library Help" 0 
+"c:\program files\renesas\hew\tools\renesas\rx\1_2_1\hew\stdlib.chm" "C/C++ Standard Library Help" 1 
+"c:\program files\renesas\hew_001\tools\renesas\rx\1_0_2\hew\stdlib.chm" "C/C++ Standard Library Help" 0 
+"c:\program files\renesas\hew_002\tools\renesas\rx\1_2_1\hew\stdlib.chm" "C/C++ Standard Library Help" 0 
+[GENERAL_DATA_PROJECT]
+[USERMENUTOOLS]
+[CUSTOMPLACEHOLDERS]
+[MAKEFILE_BUILD_INFO]
+"$(WORKSPDIR)\make\$(PROJECTNAME)_$(CONFIGNAME).mak" "" "$(WORKSPDIR)\make" 0 0 0 
+[VD_CONFIGURATION_OPTIONS]
+"ACTIVE_DESKTOP" "1" 
+[VD_CONFIGURATIONS]
+"0" "Default1" "1" 
+"1" "Default2" "1" 
+"2" "Default3" "1" 
+"3" "Default4" "1" 
+[OPTIONS_DEBUG_TAB]
+0 0 0 0 0 
+[VCS]
+"" "" "" 0 
+[VCS_PROJECT]
+[MAKEFILE_ENV_STRINGS]
+[MAKEFILE_ENV_FLAGS]
+1 0 0 
+[MAKEFILE_CLEAN_INFO]
+"" 
+[END]

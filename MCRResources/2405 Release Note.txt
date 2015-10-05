@@ -1,0 +1,38 @@
+[Release Note]
+[Date: 02/04/2014]
+
+Renesas European MCU Car Rally (MCR) Challenge | www.mcurally.com
+
+For more information: info@mcurally.com | @MCURally
+----------------------------------------------------------------------------
+
+Installation
+------------
+> Unzip 'MCRResources.zip' file to a new folder on your system.
+
+
+Contents
+--------
+
+Documentation
+-------------
+This folder contains various guides & instructions to support you in 
+constructing & running your car.
+
+
+MCR Kit Software Tools & Drivers
+--------------------------------
+This folder contains software drivers & tools allowing you to connect to your 
+car, develop code to control the kit, & program your car.
+
+
+Sample Code
+-----------
+This folder contains sample code allowing you to test your built car & a 
+basic example program from which you can begin the process of optimising your 
+car.
+
+
+
+-------------------------------------------
+AND Technology Research Ltd | www.andtr.com
